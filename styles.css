@@ -251,3 +251,6 @@ button:hover {
     justify-content: space-evenly;
     padding: 20px;
 }
+.footblackout{
+    width: 100%
+}
